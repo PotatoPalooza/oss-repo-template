@@ -2,8 +2,8 @@
 ## Eric Nelson
 
 ## Bio
-github account: PotatioPalooza
-discord: PotatoPalooza#8058
+### github account: PotatioPalooza
+### discord: PotatoPalooza#8058
 
 
 
