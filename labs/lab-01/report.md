@@ -12,8 +12,16 @@
 
 ## 4. Regex
 1. 7 Practive problems
-2. Four beginner level crosswords
-3. (Optional) problem 11 in adventofcode 2015
+'''
+3)
+2) ([\d]{3})
+3) (\w+\.?\w+)[\+]?\w*\@
+4) \<(\w+)\>?
+5) (.*)\.((jpg|png|gif))$
+7) (\w*)\((\w*.\w*):(\d+)
+'''
+3. Four beginner level crosswords
+4. (Optional) problem 11 in adventofcode 2015
 
 ## 5. Play with [Snap](http://snap.berkeley.edu/) or [Blockly](https://blockly-games.appspot.com/)
 Maze 10 solved with
