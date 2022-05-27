@@ -1,8 +1,8 @@
-# Open Source Software - Summer 2019
+# Open Source Software - Summer 2022
 ## Eric Nelson
 
 ## Bio
-### github account: PotatioPalooza
+### github account: PotatoPalooza
 ### discord: PotatoPalooza#8058
 
 
