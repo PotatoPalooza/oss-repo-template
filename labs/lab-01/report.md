@@ -12,14 +12,17 @@
 
 ## 4. Regex
 1. 7 Practive problems
-'''
-3)
+```
+1)
 2) ([\d]{3})
 3) (\w+\.?\w+)[\+]?\w*\@
 4) \<(\w+)\>?
 5) (.*)\.((jpg|png|gif))$
+6) \s+(.*)
 7) (\w*)\((\w*.\w*):(\d+)
-'''
+![upload](https://user-images.githubusercontent.com/49171429/171056427-e1800b63-a6d6-4bf6-b845-574aa1dbdb21.PNG)
+
+```
 3. Four beginner level crosswords
 4. (Optional) problem 11 in adventofcode 2015
 
