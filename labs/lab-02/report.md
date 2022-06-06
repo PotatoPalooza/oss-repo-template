@@ -27,4 +27,4 @@
 ### [Common Repository for Table 1 (owned by me)](https://github.com/PotatoPalooza/OSSProjectIdeas)
 
 # The common repository now has my project ideas
-Have a nice day!
+Have a nice day! 
