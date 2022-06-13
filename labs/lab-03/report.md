@@ -45,11 +45,11 @@ Output screenshots:
 5. Streaming Contribution Visualizations  
 Gsource ended up being just as interesting as gitstats, providing fun visualizations for the progress of projects on github. Running it on all of the projects above revealed the vastly different working styles and flows and reveals an interesting dynamic between the outcome of each project and how they work on a day to day basis. The ALPACA project did most of their contributions on the same day and a large portion of contributions for animate.css were made by the same person leading to both projects eventually dying off. Watching these videos on gsource makes these patterns very aparent and I'm looking forwards to using this tool in my future workflow aswell.  
 
-Output screenshots:  
-![lab3vid](https://user-images.githubusercontent.com/49171429/173296792-eafa8243-3b43-4936-a64f-f4f49f130701.png)   
-![gsource-codebuddy](https://user-images.githubusercontent.com/49171429/173461728-18625f56-3f0b-435d-ad47-36f4b6e0f14c.png)
-![gsource-animate](https://user-images.githubusercontent.com/49171429/173461740-59580fc2-c86d-4f83-b8a2-e8eb5d47a2ab.png)
-![gsource-floatingtwitch](https://user-images.githubusercontent.com/49171429/173461744-d15ef177-bf77-41ce-8697-33addd064269.png)
+Output screenshots (in the same order):  
+![lab3vid](https://user-images.githubusercontent.com/49171429/173296792-eafa8243-3b43-4936-a64f-f4f49f130701.png)     
+![gsource-codebuddy](https://user-images.githubusercontent.com/49171429/173461728-18625f56-3f0b-435d-ad47-36f4b6e0f14c.png)  
+![gsource-animate](https://user-images.githubusercontent.com/49171429/173461740-59580fc2-c86d-4f83-b8a2-e8eb5d47a2ab.png)  
+![gsource-floatingtwitch](https://user-images.githubusercontent.com/49171429/173461744-d15ef177-bf77-41ce-8697-33addd064269.png)  
 
 I combined all of the output videoes and uploaded them to YouTube here:
 [Video of all the Streaming Contribution Visualizations ](https://www.youtube.com/watch?v=iPlf_f3CYZc)
