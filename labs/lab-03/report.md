@@ -28,5 +28,7 @@ Here is the generated pdf: [introduction.pdf](https://github.com/PotatoPalooza/o
 
 |Project Name| # of contributors | # of lines of code| first commit| latest commit| current branches|
 |---|---|---|---|---|---|
-
 |ALPACA| 15 | 7205 | [Initial commit](https://github.com/rpi-alpaca/alpaca/commit/a8b820a9c12f26ee5861a3cd511dd36805705468) | [Merge pull request #16 from hjung4/fixmedia2](https://github.com/rpi-alpaca/alpaca/commit/550d1c4f06c0697f5c9e638a98cce34bb2fa5fee) | master, color_test, LogicGate |
+|CodeBuddy|3|1336|[Initial commit](https://github.com/didioj/CodeBuddy/commit/11ffbb404a02fe65794baeb56bc38734a64138ac)|[latest](https://github.com/didioj/CodeBuddy/commit/ef224c682f118c3257cbd7e8ea27fe50c47ee834)|master, add-code-of-conduct-1|
+|Animate.css|65|3916|[Initial commit](https://github.com/animate-css/animate.css/commit/8a2380e7de3a083a4e453e7f46f29d9d10f44d43)|[latest](https://github.com/animate-css/animate.css/commit/61d13bad4b0bd42b2f3b3d6951872135df896e72)|master, sass, gh-pages, de-dist-directory|
+|Floating Twitch|1|300|[fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)|[latest](https://github.com/fcusano9/FloatingTwitch/commit/0e0289a7ea4a60822a5c44903586976909ede17f)| master, dev |
