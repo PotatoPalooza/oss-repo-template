@@ -1,7 +1,7 @@
 # Lab 3 Report
 ## Part 1 - Documentation
 1. Check the wiki
-2. Wiki updated
+2. Wiki updated with my [area of interest](https://github.com/PotatoPalooza/oss-repo-template/wiki/Area-of-interest)
 3. Formulae depicted in   
 [latex_formulae.png](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/03.DocumentationAndCommunity/latex_formulae.png)  
 
@@ -17,8 +17,9 @@ $\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2} \cdots}}}$
 ![four](https://user-images.githubusercontent.com/49171429/173102050-3b830aa2-0807-434c-9512-b3f0b9fb2d73.PNG)
 
 5. The pdf was sucessfully gneerated in the directory:
-`/mnt/c/RPI/Junior/Summer/OSS/labs/lab3/CSCI-4470 OpenSource/Modules/01.Introduction/History/build/latex` On my local machine and `CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex` relative to the repo
-[introduction.pdf](https://github.com/PotatoPalooza/oss-repo-template/files/8880351/introduction.pdf)
+`/mnt/c/RPI/Junior/Summer/OSS/labs/lab3/CSCI-4470 OpenSource/Modules/01.Introduction/History/build/latex`   
+On my local machine and `CSCI-4470-OpenSource/Modules/01.Introduction/History/build/latex` relative to the repo  
+Here is the generated pdf: [introduction.pdf](https://github.com/PotatoPalooza/oss-repo-template/files/8880351/introduction.pdf)
 
 ## Part 2 - Community
 1. Done
