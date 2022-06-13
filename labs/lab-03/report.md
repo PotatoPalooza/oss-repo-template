@@ -33,12 +33,12 @@ Here is the generated pdf: [introduction.pdf](https://github.com/PotatoPalooza/o
 |Animate.css|65|3916|[Initial commit](https://github.com/animate-css/animate.css/commit/8a2380e7de3a083a4e453e7f46f29d9d10f44d43)|[latest](https://github.com/animate-css/animate.css/commit/61d13bad4b0bd42b2f3b3d6951872135df896e72)|master, sass, gh-pages, de-dist-directory|
 |Floating Twitch|1|300|[fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)|[latest](https://github.com/fcusano9/FloatingTwitch/commit/0e0289a7ea4a60822a5c44903586976909ede17f)| master, dev |
 
-4. Gitstats
-Output screenshot: 
+4. Gitstats  
+Output screenshot:   
 ![lab3screenshot](https://user-images.githubusercontent.com/49171429/173296757-0b1c7b73-1e1e-4a4c-850c-58dcfc199347.png)
 
 
 5. Streaming Contribution Visualizations  
-Output screenshot:
+Output screenshot:  
 ![lab3vid](https://user-images.githubusercontent.com/49171429/173296792-eafa8243-3b43-4936-a64f-f4f49f130701.png)
  
