@@ -34,7 +34,8 @@ Here is the generated pdf: [introduction.pdf](https://github.com/PotatoPalooza/o
 |Floating Twitch|1|300|[fcusano9 committed on Sep 4, 2018  ](https://github.com/fcusano9/FloatingTwitch/commit/8ae1d065a505a3baeb4bc77eeb61c3f474c81270)|[latest](https://github.com/fcusano9/FloatingTwitch/commit/0e0289a7ea4a60822a5c44903586976909ede17f)| master, dev |
 
 4. Gitstats  
-Output screenshot:   
+The results from gitstats tell a more complete story of the progress and history of these projects. Simply looking at the lines of code and number of contributors doesn't reveal how the team was working and the velocity of their work. For example the ALPACA project often only had contributions on tuesday indiciating the team was working last second to meet a deadline or prefered working as a group. That information was not clear through the simple table and was also easy to analyze with the visual element of gitstats. In the future I'm looking forwards to using this tool to analyze projects on github and even on my own projects to see who is working on what and where the project is heading. Below are screenshots from running gitstat on all of the projects.
+Output screenshots:   
 ![lab3screenshot](https://user-images.githubusercontent.com/49171429/173296757-0b1c7b73-1e1e-4a4c-850c-58dcfc199347.png)
 
 
