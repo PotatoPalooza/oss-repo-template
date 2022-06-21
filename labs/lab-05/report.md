@@ -385,3 +385,9 @@
 * Tutorial with USE_MYMATH
   ![part5](https://user-images.githubusercontent.com/49171429/174692033-8061bf2e-cb7e-4d88-bbc8-5cd5783317d7.png)
 
+## Part Two: Custom build
+* `MakeFile`
+* `CMakeLists.txt`
+* `CMake generated MakeFile`
+* Difference in sizes
+* Output
