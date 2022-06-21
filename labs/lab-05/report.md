@@ -673,7 +673,7 @@
   .PHONY : cmake_check_build_system
   ```
 * Difference in sizes
-* Running ls -la revealed the dynamic program uses 16696 bytes while the static uses 160 fewer bytes at 16856 bytes.
+* Running ls -la revealed the dynamic program uses 16696 bytes while the static uses 160 fewer bytes at 16856 bytes. Cmake and the make file generated executables of the same size however cmake was nicer to use and I would definitely prefer it for larger projects.
 * Output
   ![secondhalf](https://user-images.githubusercontent.com/49171429/174712444-e400e349-a123-4078-8c01-cb229784b2f6.png)
 
