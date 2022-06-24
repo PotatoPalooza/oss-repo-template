@@ -9,6 +9,7 @@
 6. Read the Failure to follow the Open System Model Section of Why the Web beat Gopher. Do you agree with this claim?
 7. Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses the GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen based on the history, goals and philosophy of the project?
 8. As a table (group of 3-5 students), make up an open source project and a business model that you could use to make money from it.
-9. Take 5 projects from past RCOS Projects and create a table for which project has which license. for example:
+* [business model](https://github.com/williamjallen/OSS_Lab4_Project_With_Business_Model)
+10. Take 5 projects from past RCOS Projects and create a table for which project has which license. for example:
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
