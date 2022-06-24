@@ -1,5 +1,5 @@
 # Analysis of an Open Source Project
-For this project I will be analyzing Tensorflow, Numpy, and Opencv.
+For this project I will be analyzing Tensorflow, Numpy, and [HyperNerf](https://github.com/google/hypernerf).
 ## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                                             Evaluation Data                                                                              |
@@ -12,7 +12,7 @@ For this project I will be analyzing Tensorflow, Numpy, and Opencv.
 | 6   | Issue Tracker          |         2          |                                                 Open: 2,101 Closed: 32,867  Good First Issues: 233 Overall: Very Active                                                  |
 | 7   | New Contributor        |         2          | [Great introduction](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) with in depth contribution guidelines and documentation <br /> High standards |
 | 8   | Community Norms        |         2          |                                   [Detailed code of conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md)                                    |
-| 9   | User Base              |         2          |         Massive user base as Tensorflow is one of the leading tools for ML development <br /> Bindings in many different languages <br /> Used by 200k on GitHub         |
+| 9   | User Base              |         2          |         Massive user base as Tensorflow is one of the leading tools for ML development <br /> Bindings in many different languages <br /> Used by 200k on GitHub with 166k stars         |
 |     | **Total Score**        |         17         |
 
 Explanation:
@@ -36,6 +36,19 @@ Explanation:
 | 6   | Issue Tracker          |         2          |                                 Open: 1,990 Closed: 8,689  Good First Issues: N/A Overall: Very Active                                  |
 | 7   | New Contributor        |         2          | [Clear guidelines](https://numpy.org/devdocs/dev/index.html) and great documentation <br /> However no clearly marked good first issues |
 | 8   | Community Norms        |         2          |                [Detailed code of conduct](https://numpy.org/code-of-conduct/) that is well organized on an external site                |
-| 9   | User Base              |         2          |       Massive user base <br /> One of the most popular python libraries, easily installed with pip <br /> Used by 1.1m on GitHub        |
+| 9   | User Base              |         2          |       Massive user base <br /> One of the most popular python libraries, easily installed with pip <br /> Used by 1.1m on GitHub with 20.8k stars       |
 |     | **Total Score**        |         17         |
-S### Open-cv
+
+### [HyperNerf](https://github.com/google/hypernerf) (This is a relatively new research project)
+| #   | Evaluation Factor      | Level <br /> (0-2) |                                                             Evaluation Data                                                             |
+| --- | :--------------------- | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| 1   | Licensing              |         2          |Apache-2.0 license|
+| 2   | Language               |         2          |Python: 52.2% Jupter Notebook: 47.8%|
+| 3   | Level of Activity      |         1          |One quarter active with inconsistent commits|
+| 4   | Number of Contributors |         1          |3|
+| 5   | Product Size           |         1          |Small at 154 KB and around 13k lines of code|
+| 6   | Issue Tracker          |         1          |Open: 15 Closed: 6 Good First ISsues: None Overall: barely active|
+| 7   | New Contributor        |         1          | [Very short introduction](https://github.com/google/hypernerf/blob/main/CONTRIBUTING.md) does not establish clear standards <br /> does not point to a good place to start|
+| 8   | Community Norms        |         2          |  [Great code of conduct included](https://opensource.google/conduct/) that comes with all google open source projects         |
+| 9   | User Base              |         1          |Small user base with 595 stars on github and mostly researcher interest|
+|     | **Total Score**        |         12         |
