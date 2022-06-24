@@ -13,7 +13,7 @@ For this project I will be analyzing Tensorflow, Numpy, and Opencv.
 |7| New Contributor        |         2          | [Great introduction](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) with in depth contribution guidelines and documentation with high standards |
 |8| Community Norms        |         2          |                                  [Detailed code of conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md)                                   |
 |9| User Base              |         2          |                        Massive userbase as Tensorflow is one of the leading tools for ML development with bindings in many different languages                         |
-| |**Total Score**        |        17          |                                                                                                                                                                        |
+| |**Total Score**        |        17                                                                                                                                                                                  
 
 Explanation:
 ### Numpy
