@@ -1,2 +1,20 @@
 # Analysis of an Open Source Project
-For this project I will be analyzing 
+For this project I will be analyzing Tensorflow, Numpy, and Opencv.
+## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
+### TensorFlow
+| Evaluation Factor      | Level <br /> (0-2) | Evaluation Data |
+| :--------------------- | :----------------: | --------------: |
+| Licensing              |                    |                 |
+| Language               |                    |                 |
+| Level of Activity      |                    |                 |
+| Number of Contributors |                    |                 |
+| Product Size           |                    |                 |
+| Issue Tracker          |                    |                 |
+| New Contributor        |                    |                 |
+| Community Norms        |                    |                 |
+| User Base              |                    |                 |
+| Total Score            |                    |                 |
+
+### Numpy
+
+### Open-cv
