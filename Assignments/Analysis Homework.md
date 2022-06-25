@@ -1,5 +1,5 @@
 # Analysis of an Open Source Project
-For this project I will be analyzing Tensorflow, Numpy, and [HyperNerf](https://github.com/google/hypernerf).
+For this project I will be analyzing Tensorflow, NumPy, and HyperNerf followed by a more in depth written analysis on NumPy.
 ## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
 Tensorflow is a google project that has become one of the largest open source machine learning libraries along side pytorch.
@@ -57,3 +57,6 @@ HyperNerf is relatively new research project in novel view synthesis by google.
 |     | **Total Score**        |         12         |
 
 ## Part 2: In Depth Analysis of NumPy
+
+NumPY is an easy to use numerical computing library for python that offers high speed performance with an extensive feature set. NumPY was founded by data scientist [Travis Oliphant in 2005](https://scipy.github.io/old-wiki/pages/History_of_SciPy) who wanted to bring unity into the python based scientific computing community and the project quickly grew to be included in millions of projects around the world largely thanks to Oliphant's dedication to open sourcing the project. NumPy allows users to easily manipulate high dimensional data, compute various linear algebra operations, perform essential data science operations, sort data, and more. Soon an entire charity named [NumFocus](https://numfocus.org/project/numpy) was built to financially support fully open source projects like NumPY and the library's mass adoption even made it a candidate to be included into the base version of python, however this never materialized. 
+
