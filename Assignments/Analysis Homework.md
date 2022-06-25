@@ -16,16 +16,6 @@ Tensorflow is a google project that has become one of the largest open source ma
 | 9   | User Base              |         2          |         Massive user base as Tensorflow is one of the leading tools for ML development <br /> Bindings in many different languages and easily installed with pip on python <br /> Used by 200k on GitHub with 166k stars         |
 |     | **Total Score**        |         17         |
 
-Explanation:
-1. Licensing
-2. Language
-3. Level of Activity
-4. Number of Contributors
-5. Product Size
-6. Issue Tracker
-7. New Contributor
-8. Community Norms
-9. User Base
 ### [NumPy](https://github.com/numpy/numpy)
 NumPy is an extremely popular python package for scientific computing and is essential to most higher level math functions in python.
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                             Evaluation Data                                                             |
@@ -40,6 +30,8 @@ NumPy is an extremely popular python package for scientific computing and is ess
 | 8   | Community Norms        |         2          |                [Detailed code of conduct](https://numpy.org/code-of-conduct/) that is well organized on an external site <br /> Professional atmosphere with polite conversation in all observed GitHub interactions                |
 | 9   | User Base              |         2          |       Massive user base with great usage guides<br /> One of the most popular python libraries, easily installed with pip <br /> Used by 1.1m on GitHub with 20.8k stars       |
 |     | **Total Score**        |         17         |
+
+
 See below for an in depth analysis and explanation.
 
 ### [HyperNerf](https://github.com/google/hypernerf) 
