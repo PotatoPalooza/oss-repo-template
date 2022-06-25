@@ -1,5 +1,11 @@
 # Analysis of an Open Source Project
-## [LINK TO THIS HW ON MY GITHUB](https://github.com/PotatoPalooza/oss-repo-template/blob/master/Assignments/Analysis%20Homework.md)
+## LINK TO THIS HW ON MY GITHUB (needed to show links): 
+Please Use this link to view this assignment properly:
+
+https://github.com/PotatoPalooza/oss-repo-template/blob/master/Assignments/Analysis%20Homework.md
+
+
+
 For this project I will be analyzing Tensorflow, NumPy, and HyperNerf followed by a more in depth written analysis on NumPy.
 ## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
@@ -15,7 +21,18 @@ Tensorflow is a google project that has become one of the largest open source ma
 | 7   | New Contributor        |         2          | [Great introduction](https://github.com/tensorflow/tensorflow/blob/master/CONTRIBUTING.md) with in depth contribution guidelines and documentation<br />Dedicated website and various active discussion forums <br /> Email listings and high standards |
 | 8   | Community Norms        |         2          |                                        [Detailed code of conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md) <br /> All observed interactions on GitHub were friendly and helpful                                         |
 | 9   | User Base              |         2          |                    Massive user base as Tensorflow is one of the leading tools for ML development <br /> Bindings in many different languages and easily installed with pip on python <br /> Used by 200k on GitHub with 166k stars                     |
-|     | **Total Score**        |         17         |
+|     | **Total Score**        |         17         |  
+
+Evaluation:
+1. Licensing: 
+2. Language:
+3. Level of Activity:
+4. Number of Contributors: 
+5. Product Size:
+6. Issue Tracker:
+7. New Contributor:
+8. Community Norms:
+9. User Base:  
 
 ### [NumPy](https://github.com/numpy/numpy)
 NumPy is an extremely popular python package for scientific computing and is essential to most higher level math functions in python.
@@ -48,7 +65,18 @@ HyperNerf is relatively new research project in novel view synthesis by google.
 | 7   | New Contributor        |         1          | [Very short introduction](https://github.com/google/hypernerf/blob/main/CONTRIBUTING.md) does not establish clear standards <br /> does not point to a good place to start  <br />  No active discussion forms |
 | 8   | Community Norms        |         2          |         [Great code of conduct included](https://opensource.google/conduct/) that comes with all google open-source projects  <br /> No individuals listed to be contacted in the case of a violation          |
 | 9   | User Base              |         1          |             Small user base with 595 stars on github and mostly researcher interest <br /> Brief installation guides provided with little troubleshooting <br />  Little to no instructions on use             |
-|     | **Total Score**        |         12         |
+|     | **Total Score**        |         12         |  
+
+Evaluation:
+1. Licensing: 
+2. Language:
+3. Level of Activity:
+4. Number of Contributors: 
+5. Product Size:
+6. Issue Tracker:
+7. New Contributor:
+8. Community Norms:
+9. User Base:  
 
 ## Part 2: In Depth Analysis of NumPy
 
