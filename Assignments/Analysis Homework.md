@@ -2,6 +2,7 @@
 For this project I will be analyzing Tensorflow, Numpy, and [HyperNerf](https://github.com/google/hypernerf).
 ## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
+Tensorflow is a google project that has become one of the largest open source machine learning libraries along side pytorch.
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                                             Evaluation Data                                                                              |
 | --- | :--------------------- | :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 1   | Licensing              |         2          |                                                                            Apache-2.0 license                                                                            |
@@ -25,7 +26,8 @@ Explanation:
 7. New Contributor
 8. Community Norms
 9. User Base
-### [Numpy](https://github.com/numpy/numpy)
+### [NumPy](https://github.com/numpy/numpy)
+NumPy is an extremely popular python package for scientific computing and is essential to most higher level math functions in python.
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                             Evaluation Data                                                             |
 | --- | :--------------------- | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 1   | Licensing              |         2          |                                                 BSD 3-Clause "New" or "Revised" License                                                 |
@@ -39,7 +41,8 @@ Explanation:
 | 9   | User Base              |         2          |       Massive user base <br /> One of the most popular python libraries, easily installed with pip <br /> Used by 1.1m on GitHub with 20.8k stars       |
 |     | **Total Score**        |         17         |
 
-### [HyperNerf](https://github.com/google/hypernerf) (This is a relatively new research project)
+### [HyperNerf](https://github.com/google/hypernerf) 
+HyperNerf is relatively new research project in novel view synthesis by google.
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                             Evaluation Data                                                             |
 | --- | :--------------------- | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 | 1   | Licensing              |         2          |Apache-2.0 license|
@@ -52,3 +55,5 @@ Explanation:
 | 8   | Community Norms        |         2          |  [Great code of conduct included](https://opensource.google/conduct/) that comes with all google open source projects         |
 | 9   | User Base              |         1          |Small user base with 595 stars on github and mostly researcher interest|
 |     | **Total Score**        |         12         |
+
+## Part 2: In Depth Analysis of NumPy
