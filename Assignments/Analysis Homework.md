@@ -1,6 +1,7 @@
 # Analysis of an Open Source Project
-## LINK TO THIS HW ON MY GITHUB (needed to show links): 
-Please Use this link to view this assignment properly:
+### By: Eric Nelson
+### GitHub: PotatoPalooza
+## LINK TO THIS ASSIGNMENT ON MY GITHUB (Please use this link to view this assignment properly):  
 
 https://github.com/PotatoPalooza/oss-repo-template/blob/master/Assignments/Analysis%20Homework.md
 
@@ -24,15 +25,15 @@ Tensorflow is a google project that has become one of the largest open source ma
 |     | **Total Score**        |         17         |  
 
 Evaluation:
-1. Licensing: 
-2. Language:
-3. Level of Activity:
-4. Number of Contributors: 
-5. Product Size:
-6. Issue Tracker:
-7. New Contributor:
-8. Community Norms:
-9. User Base:  
+1. Licensing: Tensorflow scores a two for having a clearly stated Apache-2.0 license that is OSI approved.
+2. Language: Tensorflow scores a two in it's languages for keeping the project in mostly C++ and Python, two of the most popular and best supported programming languages of the day.
+3. Level of Activity: Tensorflow's level of activity is easily two as it consistently has hundreds of commits every week and thousands of open issues being worked on.
+4. Number of Contributors: Tensorflow boasts an impressive 3,129 contributors many of which are google employees who work on the project full time leading to consistent and significant contributions.
+5. Product Size: Tensorflow is a massive project with millions of lines of code, extensive low level optimization, and lots of high level math that could make this project very intimidating for all but the most experience developers.
+6. Issue Tracker: Tensorflow actively uses their issue tracker with a long list of good first issues for new contributors and an organized labeling scheme to streamline the processing of issues.
+7. New Contributor: New contributors are on boarded with a custom introduction page that describes in great detail how new contributors can get started. Getting started comes with extensive documentation, easy installation guides, troubleshooting, and accessible community forums. Tensorflow's community is full of helpful and experienced developers.
+8. Community Norms: Tensorflow adopts google's code of conduct which promotes inclusivity and holds the team leaders responsible for managing their platforms which the Tensorflow team does well. Navigating the various public forms on Tensorflow's website and Issues tracker reveals only polite conversations, even in moments of disagreement.
+9. User Base:  Tensorflow has a large and diverse user base that the Tensorflow team supports with ample installation and getting started instructions. Along with this there are hundreds of free online videos and websites dedicated to learning Tensorflow as the demand for machine learning powered applications only grows.
 
 ### [NumPy](https://github.com/numpy/numpy)
 NumPy is an extremely popular python package for scientific computing and is essential to most higher level math functions in python.
@@ -57,26 +58,26 @@ HyperNerf is relatively new research project in novel view synthesis by google.
 | #   | Evaluation Factor      | Level <br /> (0-2) |                                                                                                Evaluation Data                                                                                                 |
 | --- | :--------------------- | :----------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | 1   | Licensing              |         2          |                                                                                               Apache-2.0 license                                                                                               |
-| 2   | Language               |         2          |                                                                                      Python: 52.2% Jupter Notebook: 47.8%                                                                                      |
+| 2   | Language               |         2          |                                                                                      Python: 52.2% Jupyter Notebook: 47.8%                                                                                      |
 | 3   | Level of Activity      |         1          |                                                                                  One quarter active with inconsistent commits                                                                                  |
 | 4   | Number of Contributors |         1          |                                                                                                       3                                                                                                        |
-| 5   | Product Size           |         1          |                                                                                  Small at 154 KB and around 13k lines of code                                                                                  |
+| 5   | Product Size           |         2          |                                                                                  Small at 154 KB and around 13k lines of code                                                                                  |
 | 6   | Issue Tracker          |         1          |                                                                       Open: 15 Closed: 6 Good First ISsues: None Overall: barely active                                                                        |
 | 7   | New Contributor        |         1          | [Very short introduction](https://github.com/google/hypernerf/blob/main/CONTRIBUTING.md) does not establish clear standards <br /> does not point to a good place to start  <br />  No active discussion forms |
 | 8   | Community Norms        |         2          |         [Great code of conduct included](https://opensource.google/conduct/) that comes with all google open-source projects  <br /> No individuals listed to be contacted in the case of a violation          |
 | 9   | User Base              |         1          |             Small user base with 595 stars on github and mostly researcher interest <br /> Brief installation guides provided with little troubleshooting <br />  Little to no instructions on use             |
-|     | **Total Score**        |         12         |  
+|     | **Total Score**        |         13         |  
 
 Evaluation:
-1. Licensing: 
-2. Language:
-3. Level of Activity:
-4. Number of Contributors: 
-5. Product Size:
-6. Issue Tracker:
-7. New Contributor:
-8. Community Norms:
-9. User Base:  
+1. Licensing: HyperNerf is another google project that is both free and open source with an OSI approved Apache-2.0 license.
+2. Language: HyperNerf is written in Python and Jupyter Notebooks, a common choice for researches with both languages being free and open source increasing the accessibility to their codebase. 
+3. Level of Activity: The activity in HyperNerf's repo is sparse (only active one quarter out of the year) and from only a select few contributors. This is common with other open source research projects as often researchers are not interested in long term development.
+4. Number of Contributors: Only three contributors actively develop for HyperNeRF, likely the authors to the research paper this code is for. This could make onboarding and communication difficult as the project owners could be absent or unavailable on any given day.
+5. Product Size: This project is small with only 13k lines of code with much of that being documentation. This small project size could make this a good candidate to be adopted into a larger project and relatively easy to walk through a majority of the codebase for any individual.
+6. Issue Tracker: There are only 15 open issues with fewer closed. Little organization and discussion is present in the issue tracker indicating this project is at risk for abandonment and has many unaddressed concerns from their user base.
+7. New Contributor: New contributors will be greeted with a contribution summary that is largely copied from google's templates for their open source projects. The guidelines are good and indicate the team is willing to accept new members and contributors, however, there seems to be limited communication channels with the owners and little was added to google's base guidelines to customize the development process for this specific project. Both of these are indicators of a difficult getting started period for new contributors.
+8. Community Norms: Like the contribution guide, google adopts their standard code of conduct. The code of conduct is detailed, clearly linked, references inclusivity, and is supported by many larger open source projects as well as Google itself. Along with this all conversations between the contributors have been cordial over GitHub and the conversations in Issues are generally concise with no rude comments.
+9. User Base:  The user base for this project is also small and mostly comprised of other researchers. The paper has 595 stars on github, however, this number can be misleading as often the number spikes after some conference discussing the research paper, only to maintain no active supporters or users of the software. Along with this there is no troubleshooting or usage guides despite the codebase being a new and technical product.
 
 ## Part 2: In Depth Analysis of NumPy
 
