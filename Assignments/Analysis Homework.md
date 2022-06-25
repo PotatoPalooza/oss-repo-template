@@ -1,4 +1,5 @@
 # Analysis of an Open Source Project
+## [LINK TO THIS HW ON MY GITHUB](https://github.com/PotatoPalooza/oss-repo-template/blob/master/Assignments/Analysis%20Homework.md)
 For this project I will be analyzing Tensorflow, NumPy, and HyperNerf followed by a more in depth written analysis on NumPy.
 ## Part 1: Tables based on the foss2serve [rubric](http://foss2serve.org/index.php/Project_Evaluation_Rubric_(Activity))
 ### [TensorFlow](https://github.com/tensorflow/tensorflow)
