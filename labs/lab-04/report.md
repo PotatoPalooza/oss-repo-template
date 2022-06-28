@@ -18,6 +18,15 @@
 
 7. As a table (group of 3-5 students), make up an open source project and a business model that you could use to make money from it.
 * [business model](https://github.com/williamjallen/OSS_Lab4_Project_With_Business_Model)
+
 8. Take 5 projects from past RCOS Projects and create a table for which project has which license. for example:
+Website | License Present | License
+---------|:----------|:-------
+[Parrot](https://github.com/twizmwazin/parrot)| Yes | BSD 2-Clause "Simplified" License
+[Circuit Tool](https://github.com/duffym4/circuit_tool)| Yes | GNU Lesser General Public License v2.1
+[Alpaca](https://github.com/rpi-alpaca/alpaca) | Yes | MIT License
+[IShuttleTracker](https://github.com/ishuttletracker/ishuttletracker)| Yes | MIT License
+[Organizer](https://github.com/V2grad/Organizer) | Yes | MIT License
+
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
