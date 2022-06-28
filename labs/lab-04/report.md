@@ -19,7 +19,8 @@
 7. As a table (group of 3-5 students), make up an open source project and a business model that you could use to make money from it.
 * [business model](https://github.com/williamjallen/OSS_Lab4_Project_With_Business_Model)
 
-8. Take 5 projects from past RCOS Projects and create a table for which project has which license. for example:
+8. Take 5 projects from past RCOS Projects and create a table for which project has which license.
+
 Website | License Present | License
 ---------|:----------|:-------
 [Parrot](https://github.com/twizmwazin/parrot)| Yes | BSD 2-Clause "Simplified" License
