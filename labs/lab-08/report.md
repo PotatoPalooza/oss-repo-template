@@ -22,6 +22,8 @@ The error condition on the two failures on the nightly-cmake-macos_arm64_xcode b
 
 ### 2.4 Screenshot
 ![checktwo](https://user-images.githubusercontent.com/49171429/179632733-ff1c6eec-8186-4b52-8b52-32a0b791aaf5.png)
+![sucessfulrunpng](https://user-images.githubusercontent.com/49171429/179638732-6c59e380-c15a-43bb-b1c2-c7df822f0650.png)
+
 
 ## Checkpoint 3: Failing/Passing a Test
 ### 3.1 Add a screenshot of your test submission with errors in the Experimental Dashboard or from the command window to your lab report.
