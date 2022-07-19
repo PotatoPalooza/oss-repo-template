@@ -32,6 +32,8 @@ The error can clearly be seen and the further debugging information reveals it f
 
 ### 3.2 Now use what you learned to fix the error. Grab a screenshot to document the fix and the successful run.
 ![checkThree2](https://user-images.githubusercontent.com/49171429/179634835-bbcaf977-381c-43a9-be12-2f5b331d9355.png)
+The error was fixxed by correcting the incorrect date in the copyright file.
+
 
 ## Checkpoint 4: CI/CD
 
