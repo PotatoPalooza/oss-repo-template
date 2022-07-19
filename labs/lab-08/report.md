@@ -36,16 +36,16 @@ The error was fixxed by correcting the incorrect date in the copyright file.
 
 
 ## Checkpoint 4: CI/CD
-4.1 New repo created for checkpoint 4 [here](https://github.com/PotatoPalooza/OSS_lab8_Summer2022).
+### 4.1 New repo created for checkpoint 4 [here](https://github.com/PotatoPalooza/OSS_lab8_Summer2022).
 
-4.2 Pull request for new test
+### 4.2 Pull request for new test
 ![checkFourone](https://user-images.githubusercontent.com/49171429/179638171-cef14cf3-e0fe-477e-8b80-bd10ff961a07.png)
 
-4.3 Github action sucess
+### 4.3 Github action sucess
 ![CheckFourTwo](https://user-images.githubusercontent.com/49171429/179638264-f6d44156-daf0-47bc-a03e-a77f5caefd79.png)
 
 
-4.4 Successful push
+### 4.4 Successful push
 ![CheckFourThree](https://user-images.githubusercontent.com/49171429/179638249-2365200b-b4f2-4a51-a33c-370664c2cf03.png)
 
 ## Checkpoint 5: Project update paragraph done in the wiki.
