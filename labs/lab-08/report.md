@@ -51,5 +51,6 @@ The error was fixxed by correcting the incorrect date in the copyright file.
 ![CheckFourThree](https://user-images.githubusercontent.com/49171429/179638249-2365200b-b4f2-4a51-a33c-370664c2cf03.png)
 
 ## Checkpoint 5: Project update paragraph done in the wiki.
+wiki entry can be found [here](https://github.com/PotatoPalooza/oss-repo-template/wiki/Project-Updates).
 
 
