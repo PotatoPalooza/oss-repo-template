@@ -22,3 +22,17 @@ After running the mongodb server and the rocketchat app I get this result at `lo
 ![check2](https://user-images.githubusercontent.com/49171429/180886383-19b084fd-4713-48d2-9c6a-4588b1f6c8b3.PNG)
 
 ## Example 3
+After creating, building, and running the demo server I get the following result on `localhost:5000`
+
+![ex3](https://user-images.githubusercontent.com/49171429/180887592-53d56b36-6e2e-4c0b-a324-77ce0e2ba469.PNG)
+
+## Example 4
+Running the docker file alone does not work as the mongoDB server is missing however after creating the `docker-compose.yml` and adding a dockerignore I was able to run the application using `docker-compose build` and `docker-compose up`. The following terminal and browser outputs were then generated:
+
+Running the application
+![ex4](https://user-images.githubusercontent.com/49171429/180893799-7d4f7608-ad5f-4a6f-ad84-0a62fd8b8485.PNG)
+
+Terminal
+![ex4 1](https://user-images.githubusercontent.com/49171429/180893808-7dc3786f-75b4-4718-9836-6b75e3b9741c.PNG)
+
+
