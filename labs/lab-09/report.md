@@ -17,3 +17,8 @@ Then I installed cowsay and run it with the input "moo!" here:
 ![check1 2](https://user-images.githubusercontent.com/49171429/180878130-d6c3220d-5046-412e-a310-8036b028cb2d.png)
 
 ## Example 2
+After running the mongodb server and the rocketchat app I get this result at `localhost:3000`
+
+![check2](https://user-images.githubusercontent.com/49171429/180886383-19b084fd-4713-48d2-9c6a-4588b1f6c8b3.PNG)
+
+## Example 3
