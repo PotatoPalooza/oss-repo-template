@@ -15,3 +15,7 @@ After installing CouchDB on my local machine and visiting `localhost:5984` I get
 ![dbanddocumentPNG](https://user-images.githubusercontent.com/49171429/182266500-87769daa-dd44-464e-a36b-09ee956fc828.PNG)
 ### 1.6.4. Running a Mango Query
 ![runningamangoquery](https://user-images.githubusercontent.com/49171429/182266921-5e520c29-41c1-49e5-825f-079215857b9a.PNG)
+### 1.6.5. Triggering Replication
+![replication](https://user-images.githubusercontent.com/49171429/182267484-e9514b91-09f3-440a-a72c-94573de6fc74.PNG)
+
+## Checkpoint 3: Now Complete the API Tutorial
