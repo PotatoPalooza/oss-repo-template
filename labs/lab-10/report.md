@@ -40,3 +40,26 @@ Using the modified command from lab
 
 
 ## Checkpoint 4: What Did We Miss?
+1. Select movies from hello-world with 
+    ```
+    curl -X POST admin:password@localhost:5984/hello-world/_find -d '{
+       "selector": {
+          "year": {
+             "$gt": 1987
+        }
+      }
+    }' -H 'Content-Type: application/json'
+    ```
+    Generates the output:
+    ![4OneSelectMovies](https://user-images.githubusercontent.com/49171429/182275261-7eb62f75-c45f-4d07-9526-9bca0c1e165f.PNG)
+    Without any errors.
+
+2. Selecting Movies that come after `L` with the following command:
+```curl -X POST admin:admin@localhost:5984/hello-world/_find -d 
+"{
+  \"selector\":
+  {\"title\": {\"$gt\": \"L\"}}
+}" 
+-H "Content-Type: application/json"
+```
+![CheckFourTwo](https://user-images.githubusercontent.com/49171429/182276956-27629f91-f6e4-48bb-823c-69e5f7cbc589.PNG)
