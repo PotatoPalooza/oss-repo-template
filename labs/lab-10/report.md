@@ -19,3 +19,11 @@ After installing CouchDB on my local machine and visiting `localhost:5984` I get
 ![replication](https://user-images.githubusercontent.com/49171429/182267484-e9514b91-09f3-440a-a72c-94573de6fc74.PNG)
 
 ## Checkpoint 3: Now Complete the API Tutorial
+### 1.7.1. Server and 1.7.2 Databases
+![server](https://user-images.githubusercontent.com/49171429/182268043-40129181-1486-4310-bfe4-92ac277fc77a.PNG)
+### 1.7.3. Documents
+![1 7 3Documents](https://user-images.githubusercontent.com/49171429/182269486-98dff605-1bdb-4571-ad31-e2c18bfd66f4.PNG)
+### 1.7.3.1. Revisions
+![1731Documents](https://user-images.githubusercontent.com/49171429/182271200-97589234-b6f3-4436-8200-efdd58bb0cff.PNG)
+### 1.7.3.2. Documents in Detail
+![1732](https://user-images.githubusercontent.com/49171429/182271410-fda2f372-78ca-473b-a9cd-158961178372.PNG)
