@@ -55,11 +55,23 @@ Using the modified command from lab
     Without any errors.
 
 2. Selecting Movies that come after `L` with the following command:
-```curl -X POST admin:admin@localhost:5984/hello-world/_find -d 
-"{
+```
+curl -X POST admin:admin@localhost:5984/hello-world/_find -d 
+{
   \"selector\":
   {\"title\": {\"$gt\": \"L\"}}
-}" 
+} 
 -H "Content-Type: application/json"
 ```
 ![CheckFourTwo](https://user-images.githubusercontent.com/49171429/182276956-27629f91-f6e4-48bb-823c-69e5f7cbc589.PNG)
+
+3. Creating Index using the command:
+```
+curl -X POST admin:admin@localhost:5984/hello-world/_index -d "{\"index\": {\"fields\": [\"title\"]},\"name\": \"title-json-index\",\"type\": \"json\"}" -H "Content-Type: application/json"
+```
+
+![FourThree](https://user-images.githubusercontent.com/49171429/182277716-8c547df0-6417-47c8-a030-5f01f233535c.PNG)
+![FourThreeResult](https://user-images.githubusercontent.com/49171429/182277802-00266fdb-acbe-48bb-b710-1555a2f2bf48.PNG)
+
+4. Verify movie title query. Results:
+![CheckFourFour](https://user-images.githubusercontent.com/49171429/182278088-39f33d28-e36a-4084-b903-e6d69da8ea88.PNG)
