@@ -1,6 +1,6 @@
 # Lab 10: Databases
 ## Checkpoint 0: Project Updates
-Discussion and blog update: https://github.com/PotatoPalooza/oss-repo-template/wiki/Week-Three-Progress-Update-Blog
+Discussion and blog update: https://github.com/PotatoPalooza/oss-repo-template/wiki/5.-Week-Three-Progress-Update-Blog
 
 ## Checkpoint 1: Install CouchDB
 After installing CouchDB on my local machine and visiting `localhost:5984` I get the following result:
