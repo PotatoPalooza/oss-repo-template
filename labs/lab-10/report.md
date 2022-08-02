@@ -27,3 +27,16 @@ After installing CouchDB on my local machine and visiting `localhost:5984` I get
 ![1731Documents](https://user-images.githubusercontent.com/49171429/182271200-97589234-b6f3-4436-8200-efdd58bb0cff.PNG)
 ### 1.7.3.2. Documents in Detail
 ![1732](https://user-images.githubusercontent.com/49171429/182271410-fda2f372-78ca-473b-a9cd-158961178372.PNG)
+### 1.7.3.3. Attachments
+I chose an image of a dog to be the artwork.jpg which can be veiwed after the credentials are entered.
+![attachments1733](https://user-images.githubusercontent.com/49171429/182272808-d91bf679-4646-47b4-be86-02f0033335c3.PNG)
+
+![attachmentstwoo](https://user-images.githubusercontent.com/49171429/182272924-fef4c54c-935f-4ae8-9c9b-fd0ba4a02222.PNG)
+### 1.7.4. Replication
+Using the modified command from lab
+![dbreplication](https://user-images.githubusercontent.com/49171429/182274090-4ef3fc37-199d-4e3d-b2f5-944497a20bcc.PNG)
+
+![replicationEvidence](https://user-images.githubusercontent.com/49171429/182273987-c6c14042-244f-4b47-983c-e60519b80b96.PNG)
+
+
+## Checkpoint 4: What Did We Miss?
