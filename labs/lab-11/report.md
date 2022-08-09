@@ -76,3 +76,5 @@ Combined results Plotted:
 
 Overall:
 Overall the model seems to perform well when the input closely matches the training data. In the prada bag and shoes example the images are slightly further back and at different angles then the model has seen and thus the predictions are not correct. I chose these examples to demonstrate when the model works well and when it fails althouh even in the failure cases the correct class is similar visually or a runner up class such as bag being the second prediction for the prada bag example.
+
+### Blog and project progress have been updated in my wiki.
